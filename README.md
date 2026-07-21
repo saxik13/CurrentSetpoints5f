@@ -11,7 +11,7 @@ Due to the interplay of the third and fifth harmonics, we propose a richer taxon
 
 ![](https://github.com/AI-RICE/CurrentSetpoints5f/raw/main/docs/resources/Torque_speed_detail_machine2.png)
 
-Details are provided in our [paper](). This repository provides a way to recreate the results from the paper.
+Details are provided in our [paper](https://ieeexplore.ieee.org/document/11230233). This repository provides a way to recreate the results from the paper.
 
 ## Using this repository
 
@@ -27,5 +27,5 @@ Run `main_regimes.m` and subsequently `main_boundary.m` to plot the operating re
 If you like this work, please cite our paper:
 
 ```
-
+J. Laksar et al., "Analysis and Taxonomy of Optimal Current Setpoints for Five-Phase Synchronous Motor Drives," in IEEE Transactions on Industrial Electronics, vol. 73, no. 3, pp. 3602-3613, March 2026
 ```
